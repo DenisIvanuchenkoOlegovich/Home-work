@@ -1,0 +1,27 @@
+{
+  "name": "denis-ivanuchenko/hello-world-composer",
+  "desription": "say Hello World",
+  "type": "project",
+  "readme": "README.md",
+  "license": "proprietary",
+  "homepage": "https://github.com/DenisIvanuchenkoOlegovich/Home-work",
+  "keywords": [
+    "HelloWorld",
+    "project",
+    "test"
+  ],
+  "authors": [
+    {
+      "name": "Ivanuchenko Denis",
+      "email": "ivanyuchenko.d.o@effective-group.ru",
+      "homepage": "ivanyuchenko.d.o@effective-group.ru",
+      "role": "developer"
+    }
+  ],
+  "support": {
+    "email": "ivanyuchenko.d.o@effective-group.ru"
+  },
+  "require": {
+    "php": "^7.4 || ^8.0"
+  }
+}
